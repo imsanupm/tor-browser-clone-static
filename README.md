@@ -28,7 +28,7 @@ Create a beginner-friendly project others can learn from
 
 📖 How to Use
 Clone the repository
-git clone https://github.com/your-username/tor-browser-clone.git
+git clone https://github.com/imsanupm/tor-browser-clone.git
 
 Open index.html in your browser
 
